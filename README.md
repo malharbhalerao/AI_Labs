@@ -2,12 +2,7 @@
 
 This repository contains a collection of laboratory exercises, intelligent agent implementations, and algorithm design projects completed for the undergraduate Artificial Intelligence course. The repository is actively maintained and will be updated with new modules and assignments throughout the semester.
 
-**Author:** Malhar Abhijit Bhalerao  
-**Institution:** BITS Pilani, K.K. Birla Goa Campus  
-
-## Overview
-
-The exercises in this repository explore both the scientific principles of AI (representation, search, logic, probability) and the engineering practices required to build and validate intelligent systems. A recurring theme across these modules is the responsible use of Large Language Models (LLMs) as software engineering assistants, emphasizing the critical separation between algorithm design and automated code generation.
+**Author:** Malhar Bhalerao 
 
 ## Repository Structure
 
