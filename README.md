@@ -1,15 +1,14 @@
-# Artificial Intelligence Laboratory Assignments
+# Artificial Intelligence (CS F407) Laboratory Assignments
 
-This repository contains a collection of laboratory exercises, intelligent agent implementations, and algorithm design projects completed for the undergraduate Artificial Intelligence course. The repository is actively maintained and will be updated with new modules and assignments throughout the semester.
+This repository contains a collection of laboratory exercises, intelligent agent implementations, and algorithm design projects completed for the Artificial Intelligence (CS F407) course. The repository is actively maintained and will be updated with new modules and assignments throughout the semester.
 
 **Author:** Malhar Bhalerao 
 
 ## Repository Structure
 
-Each laboratory session is contained within its own dedicated directory. While specific topics will expand over the semester, the general structure for each module includes:
+Each laboratory session is contained within its own dedicated directory. The general structure for each module includes:
 
 *   **Python Implementations:** The core algorithm or agent code (e.g., search agents, probabilistic models, neural networks).
-*   **Validation Tests:** Scripts and edge-case environments designed to independently verify the logical and mathematical correctness of the models.
 *   **Lab Reports (`README.md`):** Detailed write-ups containing problem formulations, design decisions, experiment results, and reflections on the engineering process.
 
 ## Technologies Used
